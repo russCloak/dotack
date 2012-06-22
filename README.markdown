@@ -5,6 +5,6 @@ This is my personal `.ack` directory setup which contains my `.ackrc` and any de
 ## Installation
 
     cd ~/
-    git clone git@github.com:cyphactor/dotack.git ~/.ack
+    git clone git@github.com:russCloak/dotack.git ~/.ack
     ln -s ~/.ack/ackrc .ackrc
 
